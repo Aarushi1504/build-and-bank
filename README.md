@@ -1,4 +1,4 @@
-# At-Your-Ease (FlexCover)
+# At-Your-Ease 
 
 An income-adaptive financial and insurance platform designed specifically for gig workers (Swiggy, Zomato, Uber, Rapido, Amazon delivery partners) whose earnings fluctuate monthly.
 
